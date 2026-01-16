@@ -30,4 +30,6 @@
 
 <li> Space Bar - Jump </li>
 
+<li> Ctrl + Shift + Alt + Q to close ursina window </li>
+
 </ul>
